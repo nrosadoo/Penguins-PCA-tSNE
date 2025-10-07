@@ -1,0 +1,12 @@
+.DS_Store
+# continue typing/pasting these lines, then close with EOF on its own line
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
