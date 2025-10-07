@@ -30,3 +30,12 @@ Through this project, I practiced one of the most important skills in applied ma
 - Document and version-control a complete data science workflow using Git and GitHub.
 
 This assignment strengthened my ability to explore data structure visually and built intuition around when to use different dimensionality reduction techniques, essential skills for real-world machine learning workflows.
+
+## Skills Demonstrated
+
+- **Data Cleaning & Preprocessing:** Handling missing values, encoding categorical variables, and preparing data for modeling.
+- **Dimensionality Reduction:** Applying both linear (PCA) and nonlinear (t-SNE) methods to reveal patterns and clusters in high-dimensional data.
+- **Data Visualization:** Creating clear, interpretable scatter plots to visualize reduced dimensions and cluster separations.
+- **Model Export & Reusability:** Saving models and transformed data with `pickle` for downstream machine learning workflows.
+- **Version Control & Collaboration:** Using Git and GitHub for code versioning, documentation, and project sharing.
+- **Reproducible Workflows:** Organizing files, documenting processes, and building reproducible data science pipelines.
