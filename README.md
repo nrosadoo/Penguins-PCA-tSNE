@@ -12,3 +12,8 @@ conda create -n dtsc680 python=3.11 -y
 conda activate dtsc680
 pip install numpy pandas matplotlib scikit-learn jupyter
 jupyter notebook
+
+## Results
+![PCA 2D](figures/01_pca.png)
+![t-SNE 2D](figures/02_tsne.png)
+![t-SNE on PCA](figures/03_tsne_on_pca.png)
